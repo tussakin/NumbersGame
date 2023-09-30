@@ -3,6 +3,8 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace NumbersGame;
 
+// Theres Sundberg Selin, .NET23
+
 class Program
 {
     // Main method that prints statements and then calls the appropriate method
