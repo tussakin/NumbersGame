@@ -1,0 +1,30 @@
+/Users/tess/Projects/NumbersGame/bin/Debug/net7.0/NumbersGame
+/Users/tess/Projects/NumbersGame/bin/Debug/net7.0/NumbersGame.deps.json
+/Users/tess/Projects/NumbersGame/bin/Debug/net7.0/NumbersGame.runtimeconfig.json
+/Users/tess/Projects/NumbersGame/bin/Debug/net7.0/NumbersGame.dll
+/Users/tess/Projects/NumbersGame/bin/Debug/net7.0/NumbersGame.pdb
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfo.cs
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.dll
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/refint/NumbersGame.dll
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.pdb
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/NumbersGame.genruntimeconfig.cache
+/Users/tess/Projects/NumbersGame/obj/Debug/net7.0/ref/NumbersGame.dll
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfo.cs
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.dll
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/refint/NumbersGame.dll
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.pdb
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/bin/Debug/net7.0/NumbersGame
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/bin/Debug/net7.0/NumbersGame.deps.json
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/bin/Debug/net7.0/NumbersGame.runtimeconfig.json
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/bin/Debug/net7.0/NumbersGame.dll
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/bin/Debug/net7.0/NumbersGame.pdb
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/NumbersGame.genruntimeconfig.cache
+/Users/tess/Documents/Objektorienterad prog./NumbersGame/obj/Debug/net7.0/ref/NumbersGame.dll
